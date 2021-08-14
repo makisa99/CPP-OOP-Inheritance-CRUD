@@ -1,2 +1,2 @@
-# CS323-PZ2-MarioFerketic3599
+# OOP CPP app
  CPP-objectoriented-inheritance-TXTdatabase-CRUD-exceptions
