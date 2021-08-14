@@ -1,0 +1,3 @@
+Indeks = 3599, Ime = Mario, Prezime = Ferketic, Grad = Avilajnac, Broj telefona = 0631032093
+Indeks = 3523, Ime = Ailica, Prezime = Mijajlovic, Grad = Beograd, Broj telefona = 0621235674
+Indeks = 2567, Ime = Ivana, Prezime = Ivanovic, Grad = Nis, Broj telefona = 0601741444
